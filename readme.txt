@@ -1,1 +1,1 @@
-readme about Git
+Git is a free software for programmers.
